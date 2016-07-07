@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Machine Learning - Notes</title>
+  <subtitle>Notes and examples for various machine-learning techniques</subtitle>
+  <link href="https://lharc.github.io/ml-class/atom.xml" rel="self"/>
+  <link href="https://lharc.github.io/ml-class/"/>
+  <updated>2016-07-07T12:00:00Z</updated>
+  <author>
+    <name>Larry Valkama</name>
+    <uri>https://github.com/lharc</uri>
+  </author>
+  <id>ml-class_lharc_github</id>
+
+  <entry>
+    <title>Under construction</title>
+    <link href="https://lharc.github.io/ml-class/"/>
+    <id>ml-class_lharc_github,feed1</id>
+    <published>2016-07-07T12:00:00Z</published>
+    <updated>2016-07-07T12:00:00Z</updated>
+    <summary>
+      Under construction...
+    </summary>
+    <author>
+      <name>Larry Valkama</name>
+      <uri>https://github.com/lharc</uri>
+    </author>
+  </entry>
+
+</feed>
