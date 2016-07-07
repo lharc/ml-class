@@ -1,0 +1,3 @@
+Andrew NG     Machine learning class http://ml-class.org
+mbostock      D3                     http://d3js.org
+Mikey Levine  D3 tutorial            http://code.hazzens.com/d3tut
